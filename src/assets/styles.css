@@ -1,0 +1,55 @@
+#root .sidebar-container .os-content{    
+    padding: 0 !important;
+} 
+
+.sidebar-header{
+    padding: 20px;
+    background: #ffffff;
+}
+
+.search-field {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.search-field input,
+.search-field .css-1w9ttsv{   
+    background: #ffffff;
+}
+
+#storybook-explorer-menu{
+    padding: 0 20px;
+}
+
+.css-sqdry3{
+    top:0 !important;
+}
+
+.css-1va4tas{
+    border-radius: 0 !important;
+}
+
+.css-1xonygc:hover,
+.os-content .css-1x3odw:hover,
+.os-content .css-1apjcsw:hover{    
+    color: #ffffff;
+}
+
+#storybook-panel-root .os-viewport {
+    background-color: #ffffff;
+    border-bottom: 1px solid rgba(83, 83, 99, 0.25);
+}
+
+#storybook-panel-root #panel-tab-content{
+    background-color: #f6f6f6;
+}
+
+#storybook-panel-root #panel-tab-content table,
+#storybook-panel-root #panel-tab-content table thead,
+#storybook-panel-root #panel-tab-content table td
+{
+    background-color: #f6f6f6;
+}
+/*.os-viewport{
+    background-color: #ffffff;
+    border-bottom: 1px solid rgba(83, 83, 99, 0.25)
+}*/
